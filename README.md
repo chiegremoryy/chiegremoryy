@@ -3,10 +3,10 @@
 
 ---
 
-- 💼 Currently Working on Various Website Projects (Personal & Client-Based)
+- 🎓 Dian Nuswantoro University, Currently Exploring Website Development and Design Projects
 - 🎯 Passionate About UI/UX Design, Responsive Websites, and Clean Code
-- 🧠 Currently Exploring: Tailwind CSS, Next.js, and Figma Prototyping
-- 💬 Ask Me About: HTML, CSS, JavaScript, Design Systems, Adobe Illustrator
+- 🧠 Currently Exploring: Tailwind CSS, Next.js, Pyhton, and Figma Prototyping
+- 💬 Ask Me About: HTML, CSS, JavaScript, Design Systems, Adobe Illustrator, Adobe Photoshop
 - 📫 How to Reach Me:  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chiegremoryyy@gmail.com)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/chiegremoryyy/)
@@ -29,17 +29,9 @@
 
 ## 📊 GitHub Profile Overview
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chiegremoryy&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=chiegremoryy)
-![Profile Views](https://komarev.com/ghpvc/?username=chiegremoryy&color=blueviolet)
-
----
-
-## 📈 GitHub Languange
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiegremoryy&layout=compact&theme=radical)
 
 ---
-
 
 ## 🐍 Watch My Contributions Get Eaten by a Snake!
 
