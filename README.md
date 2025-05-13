@@ -35,8 +35,7 @@
 
 ---
 
-## 📈 GitHub Stats
-![chiegremoryy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiegremoryy&show_icons=true&theme=radical)
+## 📈 GitHub Languange
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiegremoryy&layout=compact&theme=radical)
 
 ---
